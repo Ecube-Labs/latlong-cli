@@ -1,5 +1,5 @@
 # latlong-cli
-a simple CLI executable of [latlong-cli](https://github.com/bradfitz/latlong) and its pre-built distribution of major platforms
+a simple CLI executable of [bradfitz/latlong](https://github.com/bradfitz/latlong) and its pre-built distribution of major platforms
 
 # usage
 ```bash
