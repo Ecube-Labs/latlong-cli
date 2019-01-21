@@ -18,3 +18,6 @@ It's stdout. Keep that in mind there is no line break at the end of the result.
 - `linux/amd64` (linux x64)
 - `darwin/amd64` (macOS x64)
 - `windows/amd64` (Windows x64)
+
+# more things
+[node-latlong](https://github.com/Ecube-Labs/node-latlong): Node.js module wrapping `latlong-cli`
